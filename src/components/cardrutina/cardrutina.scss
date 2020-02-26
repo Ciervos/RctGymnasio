@@ -1,0 +1,17 @@
+.cardrutina-contenedor-principal{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+ 
+}
+
+.cardrutina-contenedor{
+    background-color: thistle;
+    border-radius: 25px;
+    height: 100px;
+    width: 150px;
+    margin-top: 50px;
+    padding: 20px;
+}
